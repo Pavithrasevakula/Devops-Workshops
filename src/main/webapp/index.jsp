@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Welcome PAVITHRA to NMIMS</h2>
+	<h2>Welcome SEVAKULA PAVITHRA to NMIMS</h2>
 
 
 	<a href="displayForm.htm">Registration Form</a>
